@@ -1,1 +1,9 @@
-# RK-94
+#### RK-94
+pkg update
+pkg upgrade
+pkg install python
+pkg install requests mechenize
+pkg install git 
+git clone https://github.com/Rezaulkarim1992/RK-94.git
+cd RK-94
+ls
