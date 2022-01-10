@@ -7,3 +7,5 @@ pkg install git
 git clone https://github.com/Rezaulkarim1992/RK-94.git
 cd RK-94
 ls
+Login rezaul
+Password rezaul 
